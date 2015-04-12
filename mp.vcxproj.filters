@@ -1,0 +1,1376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;moc;h;def;odl;idl;res;</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\AffirmForm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\AllBlocksForm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Animation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Uploader\ArduinoUploader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\GraphicFramework\Item\BehaviourItem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\BlockMenuWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\CallUpdateProgram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="libraries\CompleteLineEdit\CompleteLineEdit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\CurveProgressionWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\CustomFont.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Uploader\DFRobotUploader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Other\Data\DataBaseCreateComponent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Other\Data\DataBaseHandle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Other\Data\DatabaseEditComponent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\GraphicFramework\Scene\EditScene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\FileInforForm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\GraphicFramework\Item\FlowLine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\FunctionArea.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\FunctionAreaWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Other\Data\GetBlockData.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\GraphicFramework\Item\GraphicsItemBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\GraphicFramework\Item\GraphicsItermGroup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\IntroduceForm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\IntroduceFromRight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Label.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ListWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ListWidgetAdvanceBlock.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ListWidgetItem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ListWidgetItemWidget_Component.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ListWidgetItemWidget_Photo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ListWidgetItemWidget_UploadSetting.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\GraphicFramework\Item\LockIconItem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\LoginInforWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\MindKitForm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\MindKitPushButton.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\GraphicFramework\View\OperationsManagement.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Param.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\GraphicFramework\Item\ParameterItem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Parameter_AnalogPin_Form.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Parameter_CurveProgression_Form.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Parameter_DigitalPin_Form.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Parameter_Integer_Form.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Parameter_LED8x8_Form.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Parameter_String_Form.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Parameter_Time_Form.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Parameter_operator_Form.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\PushButtonBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\PushButtonBlock.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\PushButtonDone.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\PushButtonMindKit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Other\Data\ResultsetBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\GraphicFramework\Item\RootItem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\SerialDataThread.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\SerialPortToolForm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\SerialSettingWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Sleep.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\GraphicFramework\Item\StartItem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Uploader\ToolBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Uploader\ToolFactory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Uploader\Translate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\UploadParameterWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\UploadSettingForm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\UploadWaitForm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Uploader\Uploader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\WidgetBackgroundRight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\WidgetForListWidgetBegin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\WidgetMain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\WidgetShowScene.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="libraries\QExtserialport\qextserialenumerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="libraries\QExtserialport\qextserialenumerator_win.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="libraries\QExtserialport\qextserialport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="libraries\QExtserialport\qextserialport_win.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="src\AffirmForm.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\AllBlocksForm.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\Animation.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\Uploader\ArduinoUploader.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\GraphicFramework\Item\BehaviourItem.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\BlockMenuWidget.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\CallUpdateProgram.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <ClInclude Include="src\Common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <CustomBuild Include="libraries\CompleteLineEdit\CompleteLineEdit.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\CurveProgressionWidget.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <ClInclude Include="src\CustomFont.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <CustomBuild Include="src\Uploader\DFRobotUploader.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\Other\Data\DataBaseCreateComponent.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\Other\Data\DataBaseHandle.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <ClInclude Include="src\Other\Data\DataStruct.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <CustomBuild Include="src\Other\Data\DatabaseEditComponent.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\GraphicFramework\Scene\EditScene.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\FileInforForm.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\GraphicFramework\Item\FlowLine.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\FunctionArea.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\FunctionAreaWidget.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\Other\Data\GetBlockData.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\GraphicFramework\Item\GraphicsItemBase.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\GraphicFramework\Item\GraphicsItermGroup.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\IntroduceForm.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\IntroduceFromRight.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\Label.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\ListWidget.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\ListWidgetAdvanceBlock.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\ListWidgetItem.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\ListWidgetItemWidget_Component.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\ListWidgetItemWidget_Photo.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\ListWidgetItemWidget_UploadSetting.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <ClInclude Include="src\GraphicFramework\Item\LockIconItem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <CustomBuild Include="src\LoginInforWidget.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\MindKitForm.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\MindKitPushButton.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\GraphicFramework\View\OperationsManagement.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\Param.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\GraphicFramework\Item\ParameterItem.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\Parameter_AnalogPin_Form.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\Parameter_CurveProgression_Form.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\Parameter_DigitalPin_Form.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\Parameter_Integer_Form.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\Parameter_LED8x8_Form.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\Parameter_String_Form.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\Parameter_Time_Form.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\Parameter_operator_Form.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\PushButtonBase.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\PushButtonBlock.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\PushButtonDone.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\PushButtonMindKit.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\Other\Data\ResultsetBase.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\GraphicFramework\Item\RootItem.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\SerialDataThread.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\SerialPortToolForm.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\SerialSettingWidget.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <ClInclude Include="src\Sleep.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <CustomBuild Include="src\GraphicFramework\Item\StartItem.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\Uploader\ToolBase.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\Uploader\ToolsFactory.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\Uploader\Translate.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\UploadParameterWidget.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\UploadSettingForm.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\UploadWaitForm.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\Uploader\Uploader.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\WidgetBackgroundRight.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\WidgetForListWidgetBegin.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\WidgetMain.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\WidgetShowScene.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <ClInclude Include="src\dptr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <CustomBuild Include="libraries\QExtserialport\qextserialenumerator.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <ClInclude Include="libraries\QExtserialport\qextserialenumerator_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <CustomBuild Include="libraries\QExtserialport\qextserialport.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <ClInclude Include="libraries\QExtserialport\qextserialport_global.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="libraries\QExtserialport\qextserialport_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="build\moc\moc_AffirmForm.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_AllBlocksForm.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_Animation.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_ArduinoUploader.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_BehaviourItem.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_BlockMenuWidget.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_CallUpdateProgram.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_CompleteLineEdit.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_CurveProgressionWidget.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_DFRobotUploader.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_DataBaseCreateComponent.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_DataBaseHandle.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_DatabaseEditComponent.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_EditScene.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_FileInforForm.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_FlowLine.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_FunctionArea.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_FunctionAreaWidget.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_GetBlockData.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_GraphicsItemBase.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_GraphicsItermGroup.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_IntroduceForm.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_IntroduceFromRight.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_Label.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_ListWidget.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_ListWidgetAdvanceBlock.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_ListWidgetItem.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_ListWidgetItemWidget_Component.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_ListWidgetItemWidget_Photo.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_ListWidgetItemWidget_UploadSetting.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_LoginInforWidget.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_MindKitForm.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_MindKitPushButton.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_OperationsManagement.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_Param.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_ParameterItem.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_Parameter_AnalogPin_Form.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_Parameter_CurveProgression_Form.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_Parameter_DigitalPin_Form.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_Parameter_Integer_Form.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_Parameter_LED8x8_Form.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_Parameter_String_Form.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_Parameter_Time_Form.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_Parameter_operator_Form.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_PushButtonBase.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_PushButtonBlock.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_PushButtonDone.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_PushButtonMindKit.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_ResultsetBase.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_RootItem.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_SerialDataThread.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_SerialPortToolForm.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_SerialSettingWidget.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_StartItem.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_ToolBase.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_ToolsFactory.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_Translate.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_UploadParameterWidget.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_UploadSettingForm.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_UploadWaitForm.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_Uploader.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_WidgetBackgroundRight.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_WidgetForListWidgetBegin.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_WidgetMain.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_WidgetShowScene.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\moc\moc_qextserialenumerator.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="build\rcc\qrc_images.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClInclude Include="build\ui\ui_AffirmForm.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="build\ui\ui_AllBlocksForm.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="build\ui\ui_BlockMenuWidget.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="build\ui\ui_FileInforForm.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="build\ui\ui_FunctionArea.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="build\ui\ui_FunctionAreaWidget.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="build\ui\ui_IntroduceForm.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="build\ui\ui_ListWidgetItemWidget_Component.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="build\ui\ui_ListWidgetItemWidget_Photo.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="build\ui\ui_ListWidgetItemWidget_UploadSetting.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="build\ui\ui_LoginInforWidget.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="build\ui\ui_MindKitForm.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="build\ui\ui_Parameter_AnalogPin_Form.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="build\ui\ui_Parameter_CurveProgression_Form.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="build\ui\ui_Parameter_DigitalPin_Form.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="build\ui\ui_Parameter_Integer_Form.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="build\ui\ui_Parameter_LED8x8_Form.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="build\ui\ui_Parameter_String_Form.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="build\ui\ui_Parameter_Time_Form.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="build\ui\ui_Parameter_operator_Form.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="build\ui\ui_SerialPortToolForm.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="build\ui\ui_SerialSettingWidget.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="build\ui\ui_UploadParameterWidget.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="build\ui\ui_UploadSettingForm.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="build\ui\ui_UploadWaitForm.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="build\ui\ui_WidgetForListWidgetBegin.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+    <ClInclude Include="build\ui\ui_WidgetMain.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="ui\AffirmForm.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui\AllBlocksForm.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui\BlockMenuWidget.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui\FileInforForm.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui\FunctionArea.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui\FunctionAreaWidget.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui\IntroduceForm.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui\ListWidgetItemWidget_Component.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui\ListWidgetItemWidget_Photo.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui\ListWidgetItemWidget_UploadSetting.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui\LoginInforWidget.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui\MindKitForm.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui\Parameter_AnalogPin_Form.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui\Parameter_CurveProgression_Form.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui\Parameter_DigitalPin_Form.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui\Parameter_Integer_Form.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui\Parameter_LED8x8_Form.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui\Parameter_String_Form.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui\Parameter_Time_Form.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui\Parameter_operator_Form.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui\SerialPortToolForm.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui\SerialSettingWidget.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui\UploadParameterWidget.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui\UploadSettingForm.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui\UploadWaitForm.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui\WidgetForListWidgetBegin.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ui\WidgetMain.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="resource\images\bb_classify\AdvIO.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\left_area\AllBlocks.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\left_area\AllBlocks_over.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\bb_classify\AnalogIO.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\parameter_input\AnalogPin\ArduinoUNO_Analog.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\parameter_input\DigitalPin\ArduinoUNO_Digital.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\bb_classify\Arrow.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\common\Back.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\upload_setting\Back.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\common\Back_black.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\parameter_input\Normal\Background.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\common\BackgroundGird.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\parameter_input\Normal\Background_Empty.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\BeginnerToolbar\BeginnerToolbar_Button.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\BeginnerToolbar\BeginnerToolbar_Delay.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\BeginnerToolbar\BeginnerToolbar_IRRemote.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\BeginnerToolbar\BeginnerToolbar_LED.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\BeginnerToolbar\BeginnerToolbar_LM35.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\BeginnerToolbar\BeginnerToolbar_RotationSensor.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\BeginnerToolbar\BeginnerToolbar_Servo.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\BeginnerToolbar\BeginnerToolbar_Speaker.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\BeginnerToolbar\BeginnerToolbar_SplitLine.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\BeginnerToolbar\BeginnerToolbar_Switch.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\BeginnerToolbar\BeginnerToolbar_Triger.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\bb_classify\Bluetooth.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\common\Cursor.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\parameter_input\CurveProgression\CurveProgression_BG.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\bb_classify\DigitalIO.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\upload_setting\Done.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\upload_setting\Done_OVER.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\upload_setting\Done_Sample.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\bb_classify\Ethernet.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\bb_classify\Flow.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\bb\JumpToStart_idle.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\bb_classify\LCD.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\left_area\LeftToolBar_Shadow.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\left_area\LeftToolBar_user.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\left_area\LeftToolBar_user_OVER.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\bb_classify\Locks.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\left_area\Logo.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\bb_classify\Math.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\upload_setting\MiniLeonardo.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\upload_setting\MiniUno.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\parameter_input\LED_Matrix\ParameterSetup_8x8LED_Dark.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\parameter_input\LED_Matrix\ParameterSetup_8x8LED_Single.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\parameter_input\LED_Matrix\ParameterSetup_8x8LED_Single_Dark.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\parameter_input\Normal\Preview.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\parameter_input\AnalogPin\SelectBox.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\bb_classify\Servo.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\bb_classify\Storager.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\bb_classify\Time.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\title\Title.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\title\Title_DividingLine.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\title\Title_close.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\title\Title_close_OVER.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\title\Title_maximize.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\title\Title_maximize_OVER.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\title\Title_minimize.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\title\Title_minimize_OVER.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\title\TopToolBar_About.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\tool_area\TopToolBar_Serial.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\tool_area\TopToolBar_SplitLine.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\tool_area\TopToolBar_del.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\tool_area\TopToolBar_new.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\tool_area\TopToolBar_open.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\tool_area\TopToolBar_save.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\tool_area\TopToolBar_setting.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\tool_area\TopToolBar_upload.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\common\Transparent_Black_70.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\common\Transparent_Black_80.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\common\Transparent_Black_90.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\common\Transparent_White_70.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\common\Transparent_White_80.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\common\Transparent_White_90.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\bb_classify\Unknown.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\upload\Upload_ProcessBar.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\bb_classify\UserBlock.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\bb_classify\blackwithblueline.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\upload\done.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\upload\done_OVER.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\upload\done_OVER_White.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <CustomBuild Include="resource\images.qrc">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <None Include="resource\images\bb_mind_kit\kit_Arrow.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\bb_mind_kit\kit_Button.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\bb_mind_kit\kit_Buzzer.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\bb_mind_kit\kit_CloseSensor.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\bb_mind_kit\kit_IRRec.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\bb_mind_kit\kit_LED.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\bb_mind_kit\kit_LightSensor.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\bb_mind_kit\kit_RotationSensor.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\bb_mind_kit\kit_Servo.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\bb_classify\mindkit.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\bb_classify\moto.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\bb_classify\roll_down.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\common\roll_down.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\bb_classify\roll_up.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\common\roll_up.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_1.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_10.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_11.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_12.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_13.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_14.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_15.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_16.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_17.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_18.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_19.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_2.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_20.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_21.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_22.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_23.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_24.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_25.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_26.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_27.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_28.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_29.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_3.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_30.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_31.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_32.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_33.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_34.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_35.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_36.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_37.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_38.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_39.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_4.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_40.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_41.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_42.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_43.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_44.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_45.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_46.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_47.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_48.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_49.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_5.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_50.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_51.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_52.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_53.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_54.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_55.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_56.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_57.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_58.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_59.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_6.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_60.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_61.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_62.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_63.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_64.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_65.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_66.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_67.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_68.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_7.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_8.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\startup\startupIMG_9.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\upload_setting\tips.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\title\titlebg.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\common\transparentCursor.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="resource\images\common\wait.png">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>
